@@ -15,14 +15,12 @@ Hej, I'm Stefan. I'm a tech guy, but there is no need to be afraid 😉
 Check out what I've been working on [here](https://github.com/stefanjacobs?tab=repositories) and contact me [on Twitter](https://twitter.com/stefanj78)! 🚀
 </p>
 
-## 📛 Badges
 
 <p align="center">
-
 <a href="https://stefanjacobs.github.io/cv/"><img src="img/cv.svg" alt="Curriculum Vitae"></a>
-<a href=""><img src="" alt=""></a>
-<a href=""><img src="" alt=""></a>
-<a href=""><img src="" alt=""></a>
+<a href="https://stefanjacobs.github.com/"><img src="img/github.svg" alt="GitHub"></a>
+<a href="https://twitter.com/stefanj78"><img src="img/twitter.svg" alt="Twitter"></a>
+<a href="https://www.xing.com/profile/Stefan_Jacobs2/cv"><img src="img/xing.svg" alt="Xing"></a>
 </p>
 
 <!-- <a href=""><img src="" alt=""></a> -->
