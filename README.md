@@ -4,8 +4,9 @@ Hej, I'm Stefan. I'm a tech guy, but there is no need to be afraid 😉
 
 ## 🔭 I’m currently working on
 
-- ... Kubernetes Hello World projects that no other hello world does show to you
-- ... 
+- 🌎 Kubernetes `Hello World` projects for issues that no other hello world is showing you
+- ✨ Automatically detecting Kubernetes deployment configuration issues and auto-generating tickets to fix
+- ☁️ Migration of a huge distribution system to AWS
 
 ## 📫 How to reach me
 
@@ -16,10 +17,13 @@ Check out what I've been working on [here](https://github.com/stefanjacobs?tab=r
 
 ## 📛 Badges
 
-<a href="https://stefanjacobs.github.io/cv.html"><img src="img/cv.svg" alt="Curriculum Vitae"></a>
+<p align="center">
+
+<a href="https://stefanjacobs.github.io/cv/"><img src="img/cv.svg" alt="Curriculum Vitae"></a>
 <a href=""><img src="" alt=""></a>
 <a href=""><img src="" alt=""></a>
 <a href=""><img src="" alt=""></a>
+</p>
 
 <!-- <a href=""><img src="" alt=""></a> -->
 <!--
