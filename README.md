@@ -10,11 +10,8 @@ Hej, I'm Stefan. I'm a tech guy, but there is no need to be afraid 😉
 
 ## 📫 How to reach me
 
-<p align="center">
-
 Check out what I've been working on [here](https://github.com/stefanjacobs?tab=repositories) and contact me [on Twitter](https://twitter.com/stefanj78)! 🚀
 </p>
-
 
 <p align="center">
 <a href="https://stefanjacobs.github.io/cv/"><img src="img/cv.svg" alt="Curriculum Vitae"></a>
