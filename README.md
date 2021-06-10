@@ -1,17 +1,5 @@
-# Hi there 👋
 
-Hej, I'm Stefan. I'm a tech guy, but there is no need to be afraid 😉
-
-## 🔭 I’m currently working on
-
-- 🌎 Kubernetes `Hello World` projects for issues that no other hello world is showing you
-- ✨ Automatically detecting Kubernetes deployment configuration issues and auto-generating tickets to fix
-- ☁️ Migration of a huge distribution system to AWS
-
-## 📫 How to reach me
-
-Check out what I've been working on [here](https://github.com/stefanjacobs?tab=repositories) and contact me [on Twitter](https://twitter.com/stefanj78)! 🚀
-</p>
+[![MasterHead](img/banner.png)](https://github.com/stefanjacobs)
 
 <p align="center">
 <a href="https://stefanjacobs.github.io/cv/"><img src="img/cv.svg" alt="Curriculum Vitae"></a>
@@ -19,6 +7,27 @@ Check out what I've been working on [here](https://github.com/stefanjacobs?tab=r
 <a href="https://twitter.com/stefanj78"><img src="img/twitter.svg" alt="Twitter"></a>
 <a href="https://www.xing.com/profile/Stefan_Jacobs2/cv"><img src="img/xing.svg" alt="Xing"></a>
 </p>
+
+# ❤️ I really like
+
+- 🧑‍💻 Challenges (Big tech projects)
+- 💡 Learning (Python, Go, ...)
+- 📚 Reading (Alastair Reynolds, Andy Weir, James S. A. Corey, ...)
+
+# 🔭 I’m currently working on
+
+- 🌎 Kubernetes `Hello World` projects for issues that no other hello world is showing you
+- ✨ Automatically detecting Kubernetes deployment configuration issues and auto-generating tickets to fix
+- ☁️ Migration of a huge distribution system to AWS
+
+# 📫 How to reach me
+
+If you are interested in my CV, [have a look here](https://stefanjacobs.github.io/cv/). Check out what I've been working on [here](https://github.com/stefanjacobs?tab=repositories) and contact me  [on Twitter](https://twitter.com/stefanj78)! 🚀
+
+## 📈 Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefanjacobs)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!-- <a href=""><img src="" alt=""></a> -->
 <!--
