@@ -10,9 +10,10 @@
 
 # ❤️ I really like
 
-- 🧑‍💻 Challenges (Big tech projects)
-- 💡 Learning (Python, Go, ...)
-- 📚 Reading (Alastair Reynolds, Andy Weir, James S. A. Corey, ...)
+- 🧑‍💻  Challenges (Big tech projects)
+- 💡  Learning (Python, Go, ...)
+- 👨‍👩‍👧‍👦  Family (husband and father of two)
+- 📚  Reading (Alastair Reynolds, Andy Weir, James S. A. Corey, ...)
 
 # 🔭 I’m currently working on
 
