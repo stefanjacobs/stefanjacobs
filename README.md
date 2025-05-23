@@ -17,9 +17,9 @@
 
 # 🔭 I’m currently working on
 
-- 🌎 Kubernetes `Hello World` projects for issues that no other hello world is showing you
-- ✨ Automatically detecting Kubernetes deployment configuration issues and auto-generating tickets to fix
-- ☁️ Migration of a huge distribution system to AWS
+- 🌎 Observe the world of tech for innovative ideas and new tech and catalyze business value
+- ✨ Speech to Text and Speech/Text to API projects
+- ☁️ Disrupting a huge distribution system with GenAI
 
 # 📫 How to reach me
 
